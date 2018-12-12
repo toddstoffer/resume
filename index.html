@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% if site.display.career_profile %}
+  {% include career-profile.html %}
+{% endif %}
+
+{% if site.display.professional_experiences %}
+  {% include experiences.html %}
+{% endif %}
+
+{% if site.display.publications %}
+  {% include publications.html %}
+{% endif %}
+
+{% if site.display.presentations %}
+  {% include presentations.html %}
+{% endif %}

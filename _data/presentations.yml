@@ -1,0 +1,25 @@
+presentations:
+    - title: This is the Title of a Great presentation
+      year: 2010
+      link: "#hook"
+      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+
+    - title: This is the Title of a Great presentation
+      year: 2010
+      link: "#"
+      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+
+    - title: This is the Title of a Great presentation
+      year: 2010
+      link: "#"
+      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+
+    - title: This is the Title of a Great presentation
+      year: 2010
+      link: "#"
+      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+
+    - title: This is the Title of a Great presentation
+      year:
+      link: "#"
+      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."

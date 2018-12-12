@@ -1,0 +1,23 @@
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% assign contact = site.data.jsonpubs %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+
+    {% if sidebar.orcid %}
+    <h3 class="tagline">ORCID: <a href="https://orcid.org/{{ sidebar.orcid }}">{{sidebar.orcid}}</a></h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  {% include education.html %}
+
+  {% if site.display.skills %}
+    {% include skills.html %}
+  {% endif %}
+
+</div><!--//sidebar-wrapper-->

@@ -1,0 +1,194 @@
+@media print
+   {
+    @page {
+        size: A4;
+    }
+    body {
+       font-size: 12pt;
+    }
+
+
+    /* ======= Base ======= */
+   .fa-circle {
+      display: none;
+   }
+
+   a[href]:after {
+    content: none;
+   }
+
+
+    .sidebar-wrapper {
+        background: $theme-color;
+        position: absolute;
+        left: 0;
+        width: 280px;
+        height: 100%;
+        min-height: 800px;
+        color: #fff;
+        a {
+            color: #fff;
+        }
+        .profile-container {
+            padding: 30px;
+            //background: darken($theme-color, 10%);
+            background: rgba(0, 0, 0, 0.2);
+            text-align: center;
+            color: #fff;
+        }
+        .name {
+            font-size: 32px;
+            font-weight: 900;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        .tagline {
+            color: rgba(256, 256, 256, 0.6);
+            font-size: 16px;
+            font-weight: 400;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .profile {
+            margin-bottom: 15px;
+        }
+
+        .contact-list {
+            .fas, .fab {
+                margin-right: 5px;
+                font-size: 18px;
+                vertical-align: middle;
+            }
+            li {
+                margin-bottom: 15px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+        .container-block {
+            padding: 30px;
+        }
+        .container-block-title {
+            text-transform: uppercase;
+            font-size: 16px;
+            font-weight: 700;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        .degree {
+            font-size: 14px;
+            margin-top: 0;
+            margin-bottom: 5px;
+        }
+        .education-container {
+            .item {
+                margin-bottom: 15px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+            .meta {
+                color: rgba(256, 256, 256, 0.6);
+                font-weight: 500;
+                margin-bottom: 0px;
+                margin-top: 0;
+            }
+            .time {
+                color: rgba(256, 256, 256, 0.6);
+                font-weight: 500;
+                margin-bottom: 0px;
+            }
+        }
+    }
+
+    .main-wrapper {
+        background: #fff;
+        padding: 60px;
+        padding-left: 340px;
+        .section-title {
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: 500;
+            color: $theme-color;
+            position: relative;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 60px;
+        }
+
+        .experiences-section, .publications-section, .presentations-section {
+            .item {
+                margin-bottom: 30px;
+                &:last-child {
+                    margin-bottom: 0;
+            }
+        }
+        .upper-row {
+            position: relative;
+            margin-bottom: 2px;
+        }
+        .job-title, .degree, .publication-title, .presentation-title, .time, .pub-time{
+            color: $text-color;
+            font-size: 16px;
+            margin-top: 0;
+            margin-bottom: 0;
+            font-weight: 500;
+            max-width: 85%;
+        }
+
+        .publication-title, .presentation-title, .publication-authors, .presentation-summary{
+            margin-left: 50px;
+        }
+        .time {
+            position: absolute;
+            right: 0;
+            top: 0;
+            color: $text-grey;
+        }
+
+        .pub-time {
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: $text-grey;
+        }
+
+        .company, .university, .publication-authors{
+            margin-bottom: 10px;
+            color: $text-grey;
+        }
+    }
+
+    .skillset {
+        .item {
+            margin-bottom: 15px;
+            overflow: hidden;
+        }
+        .level-title {
+            font-size: 14px;
+            margin-top: 0;
+            margin-bottom: 12px;
+        }
+        .level-bar {
+            height: 12px;
+            background: $smoky-white;
+        }
+        .level-bar-inner {
+            height: 12px;
+            background: $theme-color;
+        }
+    }
+
+    .footer {
+        padding-top: 30px;
+        .copyright {
+            line-height: 1.6;
+            color: $text-color-secondary;
+            font-size: 13px;
+        }
+      }
+    }
+}
