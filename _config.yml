@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-display_name: Eric Joseph
-url: ''
+display_name: Todd Stoffer
+url: 'toddstoffer.github.io'
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ncsu # blue turquoise green berry orange ceramic
@@ -12,12 +12,12 @@ display:
   career_profile: true
   education: true
   professional_experiences: true
-  publications: true
+  publications: false
   presentations: true
   skills: true
 
 # Use NCSU Citation Index
-citation_index: true
+citation_index: false
 citation_index_username: tdstoffe
 # Tracker
 analytics:
