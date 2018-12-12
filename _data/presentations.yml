@@ -1,25 +1,45 @@
 presentations:
-    - title: This is the Title of a Great presentation
-      year: 2010
-      link: "#hook"
-      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    - title: Creating an Interactive Video Kiosk
+      year: 2018
+      link: "https://docs.google.com/presentation/d/1q8zfe2GEb5C0n-ZRsAMJyCRHd1cC5O6Gy7VNc2z_ADA/edit?usp=sharing"
+      summary: "A talk outlining technical implementation surrounding of a video-based kiosk web application built in Jekyll"
 
-    - title: This is the Title of a Great presentation
-      year: 2010
-      link: "#"
-      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    - title: Achieving Essential Digital Preservation
+      year: 2018
+      link: "presentation/Achieving-Essential-Digital-Preservation/#/"
+      summary: "A lightning talk at the 2018 Code4Lib Southeast conference focused on the creation and deployment of a digital preservation platform at NCSU Libraries"
 
-    - title: This is the Title of a Great presentation
-      year: 2010
-      link: "#"
-      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    - title: Introduction to Static Website Generators
+      year: 2017
+      link: "presentation/Static-Website-Generators/#/"
+      summary: "A presentation at the 2018 Open Source 101 conference held in Raleigh, NC focused on static website generators"
 
-    - title: This is the Title of a Great presentation
-      year: 2010
-      link: "#"
-      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    - title: Going off the Rails on a Jekyll Train
+      year: 2017
+      link: "/presentation/Code4lib2017/#/"
+      summary: "You want to build a blazingly fast, secure and feature-rich website. Perhaps it needs to include dynamic features like search, responsive design and easy editing options for content creators. A static website might not be the first tool that comes to mind to accomplish this task, but it might actually be exactly what you are looking for."
 
-    - title: This is the Title of a Great presentation
-      year:
-      link: "#"
-      summary: "lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    - title: Web Archiving Update
+      year: 2017
+      link: "/presentation/Web-Archiving-Update/#/"
+      summary: "An update on the NCSU Libraries Web Archiving Project"
+
+    - title: Archive-It Partner Meeting 2016 - Automating the QA Work Flow
+      year: 2016
+      link: "presentation/Archive-It-Partner-2016/#/"
+      summary: "A presentation at the 2016 Archive-It Partner Meeting, focusing on automating the QA workflow to minimize costs by utilizing student employees."
+
+    - title: IIPC 2016 - Automating the QA Work Flow to Reduce Costs and Improve Quality
+      year: 2016
+      link: "/presentation/IIPC-2016/#/"
+      summary: "A presentation at the 2016 IIPC Web Archiving Conference, focusing on automating the QA workflow to minimize costs by utilizing student employees"
+
+    - title: Code4Lib Lightning Talk - Saving Lentil
+      year: 2016
+      link: "/presentation/Saving-Lentil/#/"
+      summary: "A lightning talk presented at the 2016 Code4Lib conference. Describes how to successfully submit an Instagram API approval packet."
+
+    - title: Code4Arc Lightning Talk - QA Automation
+      year: 2016
+      link: "presentation/QA-Automation/#/"
+      summary: "A lightning talk presented at the 2016 Code4Arc pre-conference focused on using consumer software to automate the web archiving quality assurance process."
