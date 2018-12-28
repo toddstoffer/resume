@@ -14,7 +14,7 @@ display:
   professional_experiences: true
   publications: false
   presentations: true
-  skills: true
+  skills: false
 
 # Use NCSU Citation Index
 citation_index: false
