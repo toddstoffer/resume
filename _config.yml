@@ -12,12 +12,12 @@ display:
   career_profile: true
   education: true
   professional_experiences: true
-  publications: true
+  publications: false
   presentations: true
   skills: false
 
 # Use NCSU Citation Index
-citation_index: true
+citation_index: false
 citation_index_username: tdstoffe
 # Tracker
 analytics:
