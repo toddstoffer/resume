@@ -1,10 +1,10 @@
 
 var request = new XMLHttpRequest();
-request.open('GET', '/assets/api.json', true);
+request.open('GET', 'https://ci-staging01.lib.ncsu.edu/api/v1/authors/mddickey', true);
 request.onload = function () {
 
   // Begin accessing JSON data here
-  var data = JSON.parse(this.response);
+  var data = JSON.parse(this.response)[0];
   if (request.status >= 200 && request.status < 400) {
     data.citations.forEach(citations => {
 

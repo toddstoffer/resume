@@ -17,7 +17,7 @@ display:
   skills: true
 
 # Use NCSU Citation Index
-citation_index: false
+citation_index: true
 citation_index_username: tdstoffe
 # Tracker
 analytics:
