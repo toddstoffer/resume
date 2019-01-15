@@ -5,13 +5,13 @@ experiences:
       details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
         I am a Digital Technologies Development Librarian at NCSU Libraries working to provide technical leadership and hands on programming for a portfolio of digital library projects in the Digital Library Initiatives department. I develop Ruby on Rails applications and static website solutions using Ruby, Jekyll, Python and GitHub. I collaborate on curriculum development and content creation and instruction delivery for library workshops with subject matter experts across the library. I am passionate about demystifying technology and creating environments that allow everyone to gain new skills and a better understanding of the technical foundations we rely on everyday.
       accomplishments:
-          - Developing and maintaining back end Ruby on Rails applications to support the preservation and discovery of digital library assets.
-          - Creating and enhancing front end library web applications using HTML, CSS, Jekyll, Python and JavaScript for interactive public exhibit spaces in James B. Hunt Library.
-          - Lead curriculum development and classroom instruction of technical workshops on topics like Web Development, Virtualization and Open Source Software Development best practices to expand overall - knowledge and awareness of these topics amongst university students, faculty and staff.
-          - Currently project managing and performing technical implementation support for Ruby on Rails applications that support the preservation and discovery layers of library-wide systems.
-          - Increase cross-departmental collaboration through the integration of new technologies into existing workflows.
-          - Noticed an opportunity to convert technically expensive and outdated Ruby on Rails applications to static websites that I implemented with a mobile-friendly responsive design and improved content management workflow.
-          - Acted as the liaison between the end users and developers to create an application to track and display the availability of public computing resources throughout the library.
+        - Developing and maintaining back end Ruby on Rails applications to support the preservation and discovery of digital library assets.
+        - Creating and enhancing front end library web applications using HTML, CSS, Jekyll, Python and JavaScript for interactive public exhibit spaces in James B. Hunt Library.
+        - Lead curriculum development and classroom instruction of technical workshops on topics like Web Development, Virtualization and Open Source Software Development best practices to expand overall - knowledge and awareness of these topics amongst university students, faculty and staff.
+        - Currently project managing and performing technical implementation support for Ruby on Rails applications that support the preservation and discovery layers of library-wide systems.
+        - Increase cross-departmental collaboration through the integration of new technologies into existing workflows.
+        - Noticed an opportunity to convert technically expensive and outdated Ruby on Rails applications to static websites that I implemented with a mobile-friendly responsive design and improved content management workflow.
+        - Acted as the liaison between the end users and developers to create an application to track and display the availability of public computing resources throughout the library.
 
 
     - role: Information Technology Coordinator
