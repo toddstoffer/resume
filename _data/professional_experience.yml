@@ -5,12 +5,14 @@ experiences:
       details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
         I am a Digital Technologies Development Librarian at NCSU Libraries working to provide technical leadership and hands on programming for a portfolio of digital library projects in the Digital Library Initiatives department. I develop Ruby on Rails applications and static website solutions using Ruby, Jekyll, Python and GitHub. I collaborate on curriculum development and content creation and instruction delivery for library workshops with subject matter experts across the library. I am passionate about demystifying technology and creating environments that allow everyone to gain new skills and a better understanding of the technical foundations we rely on everyday.
       accomplishments:
-        - Develop and maintain back-end Ruby on Rails applications
-        - Develop and maintain front-end web applications using HTML, CSS, Jekyll, Python and Javascript
-        - Lead curriculum development and classroom instruction of technical workshops
-        - Project management and technical implementation support for software development projects
-        - Research, analyze and implement open-source software tools to enhance workshop instruction
-        - Increase cross-departmental collaboration through the integration of new technologies into existing workflows
+          - Developing and maintaining back end Ruby on Rails applications to support the preservation and discovery of digital library assets.
+          - Creating and enhancing front end library web applications using HTML, CSS, Jekyll, Python and JavaScript for interactive public exhibit spaces in James B. Hunt Library.
+          - Lead curriculum development and classroom instruction of technical workshops on topics like Web Development, Virtualization and Open Source Software Development best practices to expand overall - knowledge and awareness of these topics amongst university students, faculty and staff.
+          - Currently project managing and performing technical implementation support for Ruby on Rails applications that support the preservation and discovery layers of library-wide systems.
+          - Increase cross-departmental collaboration through the integration of new technologies into existing workflows.
+          - Noticed an opportunity to convert technically expensive and outdated Ruby on Rails applications to static websites that I implemented with a mobile-friendly responsive design and improved content management workflow.
+          - Acted as the liaison between the end users and developers to create an application to track and display the availability of public computing resources throughout the library.
+
 
     - role: Information Technology Coordinator
       time: 2012 - 2015
@@ -18,13 +20,13 @@ experiences:
       details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
         I provided leadership, project management and supervision in the creation of a new walk-in help desk and IT service center that supported a campus community of 50,000 faculty students and staff. I was fortunate to be able to work with amazing students and staff members to establish the policies, processes and training materials that allowed to space to reach exponential growth in the number of customers served while maintaining high customer satisfaction and net promoter scores. We worked to establish a training schedule for students that would allow them to grow more confident in their technical troubleshooting abilities, and if desired allow them to train for and complete Apple Certified Macintosh Technician certification.
       accomplishments:
-        - Provided implementation testing and created internal training documentation for the rollout of all  new enterprise software solutions
-        - Managed the development and design of new campus walk-in IT service center
-        - Managed a student staff of 20 employees
-        - Provided direct supervision of the primary campus walk-in IT service center support staff
-        - Developed workflow process improvements that enabled a 200% growth in traffic while maintaining positive customer feedback and a high NPS score.
-        - Developed the policies, training and technical support materials required to maintain a high level of customer satisfaction
-        - Served as a project management team member for enterprise-level IT systems and services
+        - Provided implementation testing and created internal training documentation for the rollout of all new enterprise software solutions.
+        - Managed a student staff of 20 employees and provided direct supervision of the primary campus walk-in IT service center.
+        - Created workflow process improvements which enabled a 200% growth in traffic while maintaining positive customer feedback and a high NPS score.
+        - Managed the development and design of new campus walk-in IT service center, so the University had a more agile way to help students with technical issues.
+        - Developed the policies, training and technical support materials required which continued to maintain our goal of a high level of customer satisfaction.
+        - Served as a project management team member for enterprise-level IT systems and services.
+
 
     - role: Website Project Manager and Systems Administrator
       time: 2010 - 2012
@@ -32,8 +34,8 @@ experiences:
       details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
 
       accomplishments:
-        - Provided project management for the design, build and technical implementation phases of client websites and online marketing solutions
-        - Researched, tested and implemented new web technologies
-        - Created and maintained technical documentation and training materials for internal software and systems
-        - Responsible for analysis, design and maintenance of internal network and systems
-        - Demonstrated ability to thrive in a team-based environment ensuring that website completion numbers were consistently achieved
+        - Managed the design, build and implementation phases of client websites and marketing solutions.
+        - Provided technical advice and support to the sales team on all website products and online marketing services.
+        - Researched, tested and implemented new technologies to improve internal processes and project management workflows.
+        - Created and maintained technical documentation and training materials for the onboarding of new employees.
+        - Responsible for design, analysis and maintenance of company-wide data network, telephone and storage systems.

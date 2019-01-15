@@ -1,6 +1,6 @@
 
 var request = new XMLHttpRequest();
-request.open('GET', '/assets/api.json', true);
+request.open('GET', 'https://ci-staging01.lib.ncsu.edu/api/v1/authors/tdstoffe', true);
 request.onload = function () {
 
   // Begin accessing JSON data here
