@@ -1,16 +1,17 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
+
 url: ''
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ncsu # blue turquoise green berry orange ceramic
+theme_skin: ncsu # blue turquoise green berry orange ceramic ncsu
 
 # Select the sections you would like displayed by marking them as true. If you would like to hide a section set the value to false
 display:
-  career_profile: true
+  career-profile: true
   education: true
-  professional_experiences: true
+  professional-experience: true
   publications: false
   presentations: true
   skills: true
@@ -22,7 +23,7 @@ collections:
 
 # Use NCSU Citation Index
 citation_index: false
-citation_index_username: tdstoffe
+citation_index_username:
 # Tracker
 analytics:
 
