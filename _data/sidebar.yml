@@ -1,6 +1,8 @@
-sidebar:
+contact:
 
     name: Todd Stoffer
+    summary:
+    avatar: bio.jpg
 
     # Sidebar links
     email: toddstoffer@gmail.com
@@ -23,3 +25,25 @@ education:
     - degree: Bachelor of Arts, Political Science
       university: Colorado State University
       time: 2009
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML & CSS
+        level: 5
+
+      - name: Ruby on Rails
+        level: 4
+
+      - name: Python
+        level: 3
+
+      - name: Curriculum Development
+        level: 4
+
+      - name: Microsoft Office
+        level: 5
+
+      - name: Software Development
+        level: 4
