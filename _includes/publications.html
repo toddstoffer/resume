@@ -9,12 +9,12 @@
       Publications
     </h2>
 
-    <!--Load citations from Citation Index Feed  -->
+    <!--Load publications from Citation Index Feed  -->
     <div id="container">
 
-      <!--append any local citations -->
-      {% assign local_citations = site.data.citations.citations %}
-        {% for citation in local_citations %}
+      <!--append any local publications -->
+      {% assign local_publications = site.data.publications | sort: "year" %}
+        {% for citation in local_publications %}
           <div id='item'>
             <div class="upper-row">
               <h3 class="presentation-title"><a href="{{citation.link}}">{{ citation.title }}</a></h3>
@@ -25,11 +25,11 @@
         {% endfor %}
     </div><!--//container-->
 
-    <!-- Insert local citations if not using Citation Index Feed  -->
+    <!-- Insert local publications if not using Citation Index Feed  -->
 {% elsif site.citation_index == false %}
   <section class="section publications-section">
   <div id="publications">
-    {% if site.data.citations.citations.size > 0 %}
+    {% if site.data.publications.size > 0 %}
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
         <i class="fas fa-circle fa-stack-2x"></i>
@@ -38,8 +38,8 @@
       Publications
     </h2>
   {% endif %}
-      {% assign local_citations = site.data.citations.citations %}
-        {% for citation in local_citations %}
+      {% assign local_publications = site.data.publications | sort: "year" | reverse %}
+        {% for citation in local_publications %}
           <div id='item'>
             <div class="upper-row">
               <h3 class="presentation-title"><a href="{{citation.link}}">{{ citation.title }}</a></h3>

@@ -5,8 +5,12 @@
 
 <!-- custom js -->
 <script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
+<!--Citation Index Presentation Scripts, first script sets username for API url  -->
+<script>var user = "{{site.citation_index_username}}"</script>
 
+{% if site.citation_index == true %}
 <script src="assets/js/publications.js"></script>
+{% endif %}
 
 {% if site.analytics %}
   {% include analytics.html %}
